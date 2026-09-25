@@ -1,0 +1,6 @@
+{
+  "name": "Bản Sắc MAC - Trắc Nghiệm Chia Đội Mắc Six",
+  "description": "Ứng dụng trắc nghiệm khám phá bản sắc tính cách và chia đội Mắc Six kỷ niệm Sinh Nhật MAC Media với thuật toán cân bằng đội hình.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
